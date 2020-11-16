@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3590" started-at="2020-11-16T21:37:43 CET" finished-at="2020-11-16T21:37:46 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3590" started-at="2020-11-16T21:37:43 CET" finished-at="2020-11-16T21:37:46 CET">
+      <class name="test.api.automation.TC_001_CRUDMethod">
+        <test-method status="PASS" signature="tc_001()[pri:0, instance:test.api.automation.TC_001_CRUDMethod@3fd7a715]" name="tc_001" duration-ms="3546" started-at="2020-11-16T21:37:43 CET" finished-at="2020-11-16T21:37:46 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+      </class> <!-- test.api.automation.TC_001_CRUDMethod -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
